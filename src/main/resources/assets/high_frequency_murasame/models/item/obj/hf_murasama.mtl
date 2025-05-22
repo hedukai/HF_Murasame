@@ -1,0 +1,8 @@
+# Made in Blockbench 4.12.4
+newmtl m_9cf18462-2ef6-6613-9f42-3f3168abde16
+Ns 0.0
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+map_Kd high_frequency_murasame:item/hf_murasama
